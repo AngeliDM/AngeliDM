@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngeliDM
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning JavaScript
 
 
 <!---
