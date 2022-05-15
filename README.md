@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AngeliDM
+- 👋 Hi, I’m Angeli
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning JavaScript
 
