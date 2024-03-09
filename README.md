@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Angeli Martinez</h1>
 <h3 align="center">Learning software development!</h3>
 
-- I’m currently working on [my portfolio](https://martinezangeli.netlify.app/)
+- Check out my [my portfolio](https://martinezangeli.netlify.app/)
 
 - Check out my [random or cat fact site](https://random-or-cat-fact.netlify.app/)
 
