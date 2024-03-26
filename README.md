@@ -7,6 +7,8 @@
 
 - Check out my [Good Eats website](https://goodeatsfood.netlify.app/index.html#)
 
+- Check out my [Conference website](https://conference-site-example.netlify.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/angeli_dm3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angeli_dm3" height="30" width="40" /></a>
